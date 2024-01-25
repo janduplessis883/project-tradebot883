@@ -34,3 +34,5 @@ pytest
 # Package specific
 requests
 alpaca-py
+black
+

@@ -15,7 +15,7 @@ RAW_DATA = os.path.join(
     "janduplessis883",
     "project-tradebot883",
     "data",
-    "raw"
+    "raw",
 )
 
 PROCESSED_DATA = os.path.join(
@@ -24,5 +24,5 @@ PROCESSED_DATA = os.path.join(
     "janduplessis883",
     "project-tradebot883",
     "data",
-    "processed"
+    "processed",
 )
